@@ -1,0 +1,90 @@
+{"fileAddress" : "",
+    "stories" : [
+    {
+        "storyId": 1,
+        "headline": "My Independence Seems to Vanish in the Haze: Help! At 55",
+        "subhead": "The Fabs’ 1965 movie/album was the last gasp of Beatlemania",
+        "fileAddress" : "example_audio/s1v1.mp3",
+        "url": "https://rockandrollglobe.com/beatle/my-independence-seems-to-vanish-in-the-haze-help-at-55/",
+        "publication": "Rock and Roll Globe",
+        "author": "Gillian G. Gaar",
+        "narrator": "Asher Wiener",
+        "date": "9/9/2020",
+        "duration": 8.0
+      },
+      {
+        "storyId": 2,
+        "headline": "The Stooge and The Duke",
+        "subhead": "Diving into Iggy Pop’s David Bowie years",
+        "fileAddress" : "example_audio/s2v1.mp3",
+        "url": "https://rockandrollglobe.com/rock/the-stooge-and-the-duke/",
+        "publication": "Rock and Roll Globe",
+        "author": "Gillian G. Gaar",
+        "narrator": "Asher Wiener",
+        "date": "12/17/2020",
+        "duration": 7.0
+      },
+      {
+        "storyId": 3,
+        "headline": "PG&E Exits Bankruptcy",
+        "subhead": "Utility giant faces new chapter after paying billions, accepting responsibility in dozens of wildfire deaths",
+        "fileAddress" : "example_audio/s3v1.mp3",
+        "url": "https://californiaglobe.com/fl/pge-exits-bankruptcy/",
+        "publication": "California Globe",
+        "author": "Evan Symon",
+        "narrator": "Melody Kurson",
+        "date": "7/2/2020",
+        "duration": 5.0
+      },
+      {
+        "storyId": 4,
+        "headline": "These New Tasting Glasses from Peugeot Really Work",
+        "subhead": "The French company expands beyond pepper grinders and motorcycles",
+        "fileAddress" : "example_audio/s4v1.mp3",
+        "url": "https://wineandwhiskeyglobe.com/gear/these-new-tasting-glasses-from-peugeot-really-work/",
+        "publication": "Wine and Whiskey Globe",
+        "author": "David Zivan",
+        "narrator": "Lara Sanders",
+        "date": "4/28/21",
+        "duration": 10.0
+      },
+
+      {
+        "storyId": 6,
+        "headline": "'The Empire Strikes Back' Tops the Box Office",
+        "subhead": "Forty years after its release",
+        "fileAddress" : "example_audio/s6v1.mp3",
+        "url": "https://bookandfilmglobe.com/film/the-empire-strikes-back-tops-the-box-office/",
+        "publication": "Book and Film Globe",
+        "author": "Neal Pollack",
+        "narrator": "Asher Wiener",
+        "date": "7/14/2020",
+        "duration": 6.0
+      },
+      {
+        "storyId": 7,
+        "headline":
+            "Rob Halford's \"Confess\" Is What a Rock Memoir Should Be - Brutally Honest and Funny as Hell",
+        "subhead": "Judas Priest singer details a career-long struggle with his sexuality",
+        "fileAddress" : "example_audio/s7v1.mp3",
+        "url": "https://rockandrollglobe.com/heavy-metal/rob-halfords-confess-is-what-a-rock-memoir-should-be-brutally-honest-and-funny-as-hell/",
+        "publication": "Rock and Roll Globe",
+        "author": "Ken Kurson",
+        "narrator": "Ken Kurson",
+        "date": "12/28/2020",
+        "duration": 12.5
+      },
+      {
+        "storyId": 8,
+        "headline": "Diana Rigg, Style Icon",
+        "subhead": "The Dame had a look like no other",
+        "fileAddress" : "example_audio/s8v1.mp3",
+        "url": "https://bookandfilmglobe.com/creators/remembrance/diana-rigg-style-icon/",
+        "publication": "Book and Film Globe",
+        "author": "Kimberly Chrisman-Campbell ",
+        "narrator": "Asher Wiener",
+        "date": "9/10/2020",
+        "duration": 6.5
+      }
+    ]
+}
