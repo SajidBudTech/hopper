@@ -27,7 +27,8 @@ class _TempHopperState extends State<TempHopper> {
          children: [
            Center(
              child:FlatButton(
-               child: Text("Press to Continue",style: TextStyle(color: Colors.white),),
+               padding: EdgeInsets.all(16),
+               child: Text("Hello \n\nWe are good to go!",style: TextStyle(color: Colors.white),),
                color: Colors.black,
                onPressed: (){
                  Navigator.push(

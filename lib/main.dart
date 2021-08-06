@@ -42,6 +42,7 @@ class MyApp extends StatelessWidget {
 
     return MaterialApp(
       title: 'Audio Hopper (Beta)',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         // This is the theme of your application.
         //
